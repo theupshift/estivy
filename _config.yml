@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://theupshift.github.io/estivo/" # the base hostname & protocol for your site
 twitter_username: fffabs
-github_username:  toxinide
+github_username:  theupshift
 
 # Build settings
 markdown: kramdown
